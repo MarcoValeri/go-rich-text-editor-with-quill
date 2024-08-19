@@ -1,5 +1,5 @@
 # go-rich-text-editor-with-quill
-A simple web application built with Go and the Quill rich text editor. Follow along with the tutorial on [devwithgo.dev](https://devwithgo.dev) to learn how to create your own.
+A simple web application built with Go and the Quill rich text editor. Follow along with the tutorial on [devwithgo.dev](https://www.devwithgo.dev/tutorial/how-to-create-rich-text-editor-field-with-go-and-quill) to learn how to create your own.
 
 ## Features
 * Rich text editing with Quill's powerful toolbar

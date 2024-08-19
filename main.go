@@ -15,9 +15,9 @@ func home() {
 		getContent := r.FormValue("form-content")
 
 		/**
-		* Print out in the terminal
-		* the form-content
-		* if the form has been submitted
+		 * Print out in the terminal
+		 * the form-content
+		 * if the form has been submitted
 		 */
 		if getFormSubmit == "Send your content" {
 			fmt.Println(getContent)
